@@ -18,7 +18,16 @@ I'm a Factoria F5 Full Stack development student.
 - 🖥️ Im passionate about the world of web development and new technologies
 - 🌱 I’m currently learning Bootcamp Full Stack Developer in Factoria F5!
 ---
+Contact me:
 
+
+---
 My stats:
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Brianclikclak&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brianclikclak&show=contribs,prs)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianclikclak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
