@@ -7,7 +7,10 @@ I'm a Factoria F5 Full Stack development student.
 
 ⭐Skills⭐
 ---
-![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/876beef1-b801-458e-9d0f-0da1d47028a2) ![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/dee42146-8fb3-4b5d-a6d0-a320dec37160) ![199339405-996a6268-95a9-452c-9771-8fb9e679ded8](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/c946cc0e-1c6d-4266-b131-364b223d46b4)
+![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/876beef1-b801-458e-9d0f-0da1d47028a2) ![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/dee42146-8fb3-4b5d-a6d0-a320dec37160) ![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/855f32a6-dabd-4fc5-809d-93cc585345fc) ![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/a2c1f01f-3b2c-454e-ad24-0c48a011d57e)
+   ![199339405-996a6268-95a9-452c-9771-8fb9e679ded8](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/c946cc0e-1c6d-4266-b131-364b223d46b4)
+
+
 
 ---
 
