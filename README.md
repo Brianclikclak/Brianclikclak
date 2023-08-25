@@ -12,6 +12,9 @@ I'm a Factoria F5 Full Stack development student.
 ![213936170-2c59096c-f744-41d1-8214-59e93ee3b3a2](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/e962c42d-9d19-4768-907a-e2a9e5099e79)
 ![image](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/82760ee1-ece4-464d-90f0-5cfebb0e484c)
 ![mysql 1 (3)](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/5309b1dd-91d0-4da7-b1cb-f82eb49e8307)
+![icons8-logotipo-de-primavera-48 1](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/1bf007c8-3bd2-4b19-8c7f-c0cccfcc72f3)
+
+
 
 ![199339405-996a6268-95a9-452c-9771-8fb9e679ded8](https://github.com/Brianclikclak/Brianclikclak/assets/132446946/c946cc0e-1c6d-4266-b131-364b223d46b4)
 
